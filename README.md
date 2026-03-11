@@ -15,6 +15,12 @@ Also tinkering with **Home Assistant** and **electronics**.
 - Simulation scripting and game modding
 - Hardware and electronics tinkering
 
+## ✈️ Aviation
+
+- Real-world pilot
+- Long-time flight simulation enthusiast
+- Interested in the intersection of aviation, simulation, and software
+ 
 💬 **Ask me about**
 - DCS World mission scripting
 - Flight simulator modding
